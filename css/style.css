@@ -13,8 +13,6 @@ img { max-width: 100%; }
 
 
 
-body{ background-color:; }
-
 .fondo{
   background-color: #ccffcc;
 }
@@ -76,11 +74,7 @@ body{ background-color:; }
 }
 
 
-.rrss_footer{
-	width: 35px;
-	padding-right: 1%;
-	padding-left: 1%;
-}
+
 
 #post{
 	padding-right: 5%;
@@ -121,7 +115,11 @@ body{ background-color:; }
 	margin-left: 2em;
 }
 
-
+.rrss_footer{
+	width: 35px;
+	padding-right: 1%;
+	padding-left: 1%;
+}
 
 /* espaciado */
 .espacio_izq { padding-left: 70px; }
